@@ -5,7 +5,9 @@ This project is a customized C library designed to enhance C programming skills.
 and I really don´t know ..why a gnl file is in there :) :)  ..but I only care for finish the GitHub edition in  acouple of days
 before I finish my year1
 <p align="left">
-  <img src="https://github.com/beatriangu/Libft/blob/main/100.png?raw=true" alt="Descripción de la imagen" width="300"/>
+  <img src="https://github.com/beatriangu/Libft/blob/main/100.png?raw=true" alt="100.png" width="150"/>
 </p>
-
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/7235dc66-b8e3-435e-9bc0-4f933924d826" alt="Screenshot from 2024-09-06 16-37-46" width="150"/>
+</p>
 
